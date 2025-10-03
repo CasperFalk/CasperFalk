@@ -1,4 +1,4 @@
-Hi There this is my github profile.
+Hi there, this is my github profile.
 
 I am currently studying Cognitive Science at Aarhus University, therefore most of the programs on my github are projects made at the university or exams. 
 
